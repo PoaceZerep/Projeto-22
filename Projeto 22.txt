@@ -1,0 +1,18 @@
+Classe Carro 
+    estatico inteiro totalcarros = 0
+    estatico inteiro registro()
+      totalcarros++
+  Retornar totalcarros
+fimclasse
+
+c1 = novo registro
+c2 = novo registro
+c3 = novo registro
+
+c1.registro
+c2.registro
+c3.registro 
+
+c1.totalcarros
+c2.totalcarros
+c3.totalcarros   
